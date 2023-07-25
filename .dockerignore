@@ -4,9 +4,7 @@
 .files/
 docs/
 scripts/
-pro.env
 dev.env
 online.env
 pro_online.env
-liuli_config/
 thunder-tests/
